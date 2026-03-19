@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Bootcoin Logo" width="200"/>
+  <img src="BootcoinLogo.png" alt="Bootcoin Logo" width="200"/>
 </p>
 
 # Bootcoin 👟

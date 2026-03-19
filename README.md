@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Bootcoin Logo" width="200"/>
+</p>
+
 # Bootcoin 👟
 
 Bootcoin is more than a brand — it's a gateway to exclusivity.
